@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio.github.io/static/css/main.1a355060.chunk.css",
+    "main.js": "/portfolio.github.io/static/js/main.e2101160.chunk.js",
+    "main.js.map": "/portfolio.github.io/static/js/main.e2101160.chunk.js.map",
+    "runtime-main.js": "/portfolio.github.io/static/js/runtime-main.a6e5f3f5.js",
+    "runtime-main.js.map": "/portfolio.github.io/static/js/runtime-main.a6e5f3f5.js.map",
+    "static/js/2.a617a02f.chunk.js": "/portfolio.github.io/static/js/2.a617a02f.chunk.js",
+    "static/js/2.a617a02f.chunk.js.map": "/portfolio.github.io/static/js/2.a617a02f.chunk.js.map",
+    "index.html": "/portfolio.github.io/index.html",
+    "precache-manifest.604db5110d2d48c0cbc60f197690c1b6.js": "/portfolio.github.io/precache-manifest.604db5110d2d48c0cbc60f197690c1b6.js",
+    "service-worker.js": "/portfolio.github.io/service-worker.js",
+    "static/css/main.1a355060.chunk.css.map": "/portfolio.github.io/static/css/main.1a355060.chunk.css.map",
+    "static/js/2.a617a02f.chunk.js.LICENSE.txt": "/portfolio.github.io/static/js/2.a617a02f.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/portfolio.github.io/static/media/fa-solid-900.ef3df984.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a6e5f3f5.js",
+    "static/js/2.a617a02f.chunk.js",
+    "static/css/main.1a355060.chunk.css",
+    "static/js/main.e2101160.chunk.js"
+  ]
+}
